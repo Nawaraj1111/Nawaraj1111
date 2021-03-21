@@ -1,6 +1,6 @@
 <Html>
   <head>
-    <Title>This is title page</title>
+    <title>This is title page</title>
   </head>
   <body>
     <H1>Introduction</H1>
